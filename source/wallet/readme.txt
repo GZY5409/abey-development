@@ -1,0 +1,1 @@
+The wallet source code is located in this folder.
