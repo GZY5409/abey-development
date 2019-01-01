@@ -1,0 +1,1 @@
+Various resources (images, icons, data files, etc.) used throughout the source code or throughout the various builds.
